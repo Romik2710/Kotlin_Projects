@@ -1,0 +1,32 @@
+com.example.dogglers.app-fragment-1.4.1-0 /home/romik/.gradle/caches/transforms-3/1e0ad23b171bd2a2e52aef5f552d1bef/transformed/fragment-1.4.1/res
+com.example.dogglers.app-appcompat-1.4.1-1 /home/romik/.gradle/caches/transforms-3/37d87c5f2fcc7ef231c582acc9d4436a/transformed/appcompat-1.4.1/res
+com.example.dogglers.app-jetified-fragment-ktx-1.4.1-2 /home/romik/.gradle/caches/transforms-3/5485823d3bb33443b7020e0ed8766b8c/transformed/jetified-fragment-ktx-1.4.1/res
+com.example.dogglers.app-material-1.6.0-3 /home/romik/.gradle/caches/transforms-3/57f6778c533be6737350e5d315fabbd2/transformed/material-1.6.0/res
+com.example.dogglers.app-jetified-emoji2-views-helper-1.0.0-4 /home/romik/.gradle/caches/transforms-3/73145ad30934c75de745c4b2e6f056bb/transformed/jetified-emoji2-views-helper-1.0.0/res
+com.example.dogglers.app-recyclerview-1.1.0-5 /home/romik/.gradle/caches/transforms-3/735a5ef488bd5d62ce9ab4485a704cda/transformed/recyclerview-1.1.0/res
+com.example.dogglers.app-jetified-savedstate-1.1.0-6 /home/romik/.gradle/caches/transforms-3/86b4fa667386b59663f9389ecdcfa8f0/transformed/jetified-savedstate-1.1.0/res
+com.example.dogglers.app-jetified-fragment-testing-1.4.1-7 /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/res
+com.example.dogglers.app-lifecycle-viewmodel-2.3.1-8 /home/romik/.gradle/caches/transforms-3/9c31dbaf61c755736b4e4db1c0f662cb/transformed/lifecycle-viewmodel-2.3.1/res
+com.example.dogglers.app-transition-1.2.0-9 /home/romik/.gradle/caches/transforms-3/a7b60d003f5256ca14a33906ac86334d/transformed/transition-1.2.0/res
+com.example.dogglers.app-jetified-lifecycle-process-2.4.0-10 /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/res
+com.example.dogglers.app-media-1.0.0-11 /home/romik/.gradle/caches/transforms-3/bd3be20887097407317ba83b6c7206cf/transformed/media-1.0.0/res
+com.example.dogglers.app-jetified-emoji2-1.0.0-12 /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/res
+com.example.dogglers.app-lifecycle-runtime-2.4.0-13 /home/romik/.gradle/caches/transforms-3/cd508b00f129ab1f2a420dc23af0efbc/transformed/lifecycle-runtime-2.4.0/res
+com.example.dogglers.app-jetified-appcompat-resources-1.4.1-14 /home/romik/.gradle/caches/transforms-3/cee39e365366da16422d334361169586/transformed/jetified-appcompat-resources-1.4.1/res
+com.example.dogglers.app-coordinatorlayout-1.1.0-15 /home/romik/.gradle/caches/transforms-3/d4ab59ce5546bc5028e07364ca12a1c0/transformed/coordinatorlayout-1.1.0/res
+com.example.dogglers.app-constraintlayout-2.1.4-16 /home/romik/.gradle/caches/transforms-3/d58d23deeb9c91b849a9b80a90cbbef5/transformed/constraintlayout-2.1.4/res
+com.example.dogglers.app-jetified-annotation-experimental-1.1.0-17 /home/romik/.gradle/caches/transforms-3/dd625780e08e91f4d3657a2aed7ce02d/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.dogglers.app-jetified-viewpager2-1.0.0-18 /home/romik/.gradle/caches/transforms-3/e2ff47ab792e327bf014b231dfb64d7a/transformed/jetified-viewpager2-1.0.0/res
+com.example.dogglers.app-cardview-1.0.0-19 /home/romik/.gradle/caches/transforms-3/e7cc684492bfbb6e9bd17338cde90a8e/transformed/cardview-1.0.0/res
+com.example.dogglers.app-jetified-startup-runtime-1.0.0-20 /home/romik/.gradle/caches/transforms-3/ebd847be1da93c07f67085f57a400e14/transformed/jetified-startup-runtime-1.0.0/res
+com.example.dogglers.app-drawerlayout-1.1.1-21 /home/romik/.gradle/caches/transforms-3/efb52bce24d65d290c22ecdc53ed5adc/transformed/drawerlayout-1.1.1/res
+com.example.dogglers.app-core-1.7.0-22 /home/romik/.gradle/caches/transforms-3/effbd3098b1b179f79d104d86ef722ea/transformed/core-1.7.0/res
+com.example.dogglers.app-jetified-core-ktx-1.7.0-23 /home/romik/.gradle/caches/transforms-3/f7370f2d15ffab270094e1d9aa03c7b2/transformed/jetified-core-ktx-1.7.0/res
+com.example.dogglers.app-pngs-24 /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/build/generated/res/pngs/debug
+com.example.dogglers.app-resValues-25 /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/build/generated/res/resValues/debug
+com.example.dogglers.app-rs-26 /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/build/generated/res/rs/debug
+com.example.dogglers.app-mergeDebugResources-27 /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.dogglers.app-mergeDebugResources-28 /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.dogglers.app-merged_res-29 /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/build/intermediates/merged_res/debug
+com.example.dogglers.app-debug-30 /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/debug/res
+com.example.dogglers.app-main-31 /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/res

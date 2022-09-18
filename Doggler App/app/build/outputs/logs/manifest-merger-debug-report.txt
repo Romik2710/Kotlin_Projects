@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/romik/.gradle/caches/transforms-3/180244fe53f29d4db41cf3e27355ae91/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/romik/.gradle/caches/transforms-3/5485823d3bb33443b7020e0ed8766b8c/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0] /home/romik/.gradle/caches/transforms-3/57f6778c533be6737350e5d315fabbd2/transformed/material-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/romik/.gradle/caches/transforms-3/d58d23deeb9c91b849a9b80a90cbbef5/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/romik/.gradle/caches/transforms-3/37d87c5f2fcc7ef231c582acc9d4436a/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/romik/.gradle/caches/transforms-3/56346a01139973f13f44d9e85b1a7e51/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/romik/.gradle/caches/transforms-3/e2ff47ab792e327bf014b231dfb64d7a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /home/romik/.gradle/caches/transforms-3/1e0ad23b171bd2a2e52aef5f552d1bef/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/romik/.gradle/caches/transforms-3/291d0d9f54637d1b192ec0ec0dca476e/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/romik/.gradle/caches/transforms-3/f7370f2d15ffab270094e1d9aa03c7b2/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.activity:activity:1.2.4] /home/romik/.gradle/caches/transforms-3/ad7d55c1a42e9e7d3b0bf0779583a7a3/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/romik/.gradle/caches/transforms-3/cee39e365366da16422d334361169586/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/romik/.gradle/caches/transforms-3/73145ad30934c75de745c4b2e6f056bb/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/romik/.gradle/caches/transforms-3/c26b0af244136df3be9b4a8a6224fdb8/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/romik/.gradle/caches/transforms-3/efb52bce24d65d290c22ecdc53ed5adc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/romik/.gradle/caches/transforms-3/d4ab59ce5546bc5028e07364ca12a1c0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/romik/.gradle/caches/transforms-3/1d17e41b326b7dc66da54a71a237a27e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/romik/.gradle/caches/transforms-3/a7b60d003f5256ca14a33906ac86334d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/romik/.gradle/caches/transforms-3/3f95cba05be1be77124d9c3f338a85d8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/romik/.gradle/caches/transforms-3/ced1a770e01d9ef3905936c4741efe55/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3be20887097407317ba83b6c7206cf/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/romik/.gradle/caches/transforms-3/0b6cf068648a4858d857b226b26799af/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/romik/.gradle/caches/transforms-3/735a5ef488bd5d62ce9ab4485a704cda/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/romik/.gradle/caches/transforms-3/bf22cb6b14fdf3b7f6b265fc877699c8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/romik/.gradle/caches/transforms-3/244b7639c5783d62c017f904194b054c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/romik/.gradle/caches/transforms-3/21c2558aab9c1d41cfed8b6c39e14de3/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/romik/.gradle/caches/transforms-3/8eb901835b257b6ebe33371536bbdc75/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/romik/.gradle/caches/transforms-3/5c2669b8c5fe913905ea83038a6570cd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/romik/.gradle/caches/transforms-3/10f6e64ef7d5d5e8c82d70f2e0d4f2a2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/romik/.gradle/caches/transforms-3/effbd3098b1b179f79d104d86ef722ea/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/romik/.gradle/caches/transforms-3/65e73362ae14226963c1648806688fba/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/romik/.gradle/caches/transforms-3/36678de14d0b7839134e28f123a7183a/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/romik/.gradle/caches/transforms-3/a87e0bc56eb235157d67a03ab38180c9/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/romik/.gradle/caches/transforms-3/86b4fa667386b59663f9389ecdcfa8f0/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/6b7fe93b9eb4a7101c3df2b863a8f23f/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/romik/.gradle/caches/transforms-3/9c31dbaf61c755736b4e4db1c0f662cb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/romik/.gradle/caches/transforms-3/e7cc684492bfbb6e9bd17338cde90a8e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.4.0] /home/romik/.gradle/caches/transforms-3/d3603e3f5e7166bcae52d5c2124f103d/transformed/monitor-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/romik/.gradle/caches/transforms-3/9ce780e0d055b939d922c15d27314d36/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/romik/.gradle/caches/transforms-3/ebd847be1da93c07f67085f57a400e14/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/romik/.gradle/caches/transforms-3/484cd246fea6d164d82d7972ed953132/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/romik/.gradle/caches/transforms-3/f95a118929f4e240eda90cbf77dde7bb/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/romik/.gradle/caches/transforms-3/9292b9701fd9e8ff5c91c063bfdeeefd/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/romik/.gradle/caches/transforms-3/425554637b881078525b9f2aa86d31c6/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/romik/.gradle/caches/transforms-3/24e7af6fad7e6d440b8a315e71d9888d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/d4a7bffff8375ed41664004e2769cf9f/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/romik/.gradle/caches/transforms-3/cd508b00f129ab1f2a420dc23af0efbc/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/71f6b5e95761b00c689faed2bd6b3258/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/romik/.gradle/caches/transforms-3/c445865e243f0359910ec56975236cda/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/romik/.gradle/caches/transforms-3/f4eb0d8a1b87be81c6febfa3af39ad8c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/romik/.gradle/caches/transforms-3/a6549832ed4e0ac4408bc38631a9e9a6/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/romik/.gradle/caches/transforms-3/dd625780e08e91f4d3657a2aed7ce02d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+	package
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:1-51:12
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:19:5-49:19
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.android.material:material:1.6.0] /home/romik/.gradle/caches/transforms-3/57f6778c533be6737350e5d315fabbd2/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] /home/romik/.gradle/caches/transforms-3/57f6778c533be6737350e5d315fabbd2/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/romik/.gradle/caches/transforms-3/d58d23deeb9c91b849a9b80a90cbbef5/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/romik/.gradle/caches/transforms-3/d58d23deeb9c91b849a9b80a90cbbef5/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/romik/.gradle/caches/transforms-3/effbd3098b1b179f79d104d86ef722ea/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/romik/.gradle/caches/transforms-3/effbd3098b1b179f79d104d86ef722ea/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/romik/.gradle/caches/transforms-3/9ce780e0d055b939d922c15d27314d36/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/romik/.gradle/caches/transforms-3/9ce780e0d055b939d922c15d27314d36/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/romik/.gradle/caches/transforms-3/ebd847be1da93c07f67085f57a400e14/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/romik/.gradle/caches/transforms-3/ebd847be1da93c07f67085f57a400e14/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/romik/.gradle/caches/transforms-3/effbd3098b1b179f79d104d86ef722ea/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:25:9-46
+activity#com.example.dogglers.VerticalListActivity
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:26:9-30:20
+	android:name
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:26:19-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:27:13-29:49
+	android:value
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:29:17-46
+	android:name
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:28:17-63
+activity#com.example.dogglers.HorizontalListActivity
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:31:9-35:20
+	android:name
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:31:19-57
+activity#com.example.dogglers.GridListActivity
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:36:9-40:20
+	android:name
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:36:19-51
+activity#com.example.dogglers.MainActivity
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:41:9-48:20
+	android:exported
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:41:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/romik/.gradle/caches/transforms-3/180244fe53f29d4db41cf3e27355ae91/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/romik/.gradle/caches/transforms-3/180244fe53f29d4db41cf3e27355ae91/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/romik/.gradle/caches/transforms-3/5485823d3bb33443b7020e0ed8766b8c/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/romik/.gradle/caches/transforms-3/5485823d3bb33443b7020e0ed8766b8c/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /home/romik/.gradle/caches/transforms-3/57f6778c533be6737350e5d315fabbd2/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /home/romik/.gradle/caches/transforms-3/57f6778c533be6737350e5d315fabbd2/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/romik/.gradle/caches/transforms-3/d58d23deeb9c91b849a9b80a90cbbef5/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/romik/.gradle/caches/transforms-3/d58d23deeb9c91b849a9b80a90cbbef5/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/romik/.gradle/caches/transforms-3/37d87c5f2fcc7ef231c582acc9d4436a/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/romik/.gradle/caches/transforms-3/37d87c5f2fcc7ef231c582acc9d4436a/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/romik/.gradle/caches/transforms-3/56346a01139973f13f44d9e85b1a7e51/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/romik/.gradle/caches/transforms-3/56346a01139973f13f44d9e85b1a7e51/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/romik/.gradle/caches/transforms-3/e2ff47ab792e327bf014b231dfb64d7a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/romik/.gradle/caches/transforms-3/e2ff47ab792e327bf014b231dfb64d7a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/romik/.gradle/caches/transforms-3/1e0ad23b171bd2a2e52aef5f552d1bef/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/romik/.gradle/caches/transforms-3/1e0ad23b171bd2a2e52aef5f552d1bef/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/romik/.gradle/caches/transforms-3/291d0d9f54637d1b192ec0ec0dca476e/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/romik/.gradle/caches/transforms-3/291d0d9f54637d1b192ec0ec0dca476e/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/romik/.gradle/caches/transforms-3/f7370f2d15ffab270094e1d9aa03c7b2/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/romik/.gradle/caches/transforms-3/f7370f2d15ffab270094e1d9aa03c7b2/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/romik/.gradle/caches/transforms-3/ad7d55c1a42e9e7d3b0bf0779583a7a3/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/romik/.gradle/caches/transforms-3/ad7d55c1a42e9e7d3b0bf0779583a7a3/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/romik/.gradle/caches/transforms-3/cee39e365366da16422d334361169586/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/romik/.gradle/caches/transforms-3/cee39e365366da16422d334361169586/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/romik/.gradle/caches/transforms-3/73145ad30934c75de745c4b2e6f056bb/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/romik/.gradle/caches/transforms-3/73145ad30934c75de745c4b2e6f056bb/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/romik/.gradle/caches/transforms-3/c26b0af244136df3be9b4a8a6224fdb8/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/romik/.gradle/caches/transforms-3/c26b0af244136df3be9b4a8a6224fdb8/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/romik/.gradle/caches/transforms-3/efb52bce24d65d290c22ecdc53ed5adc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/romik/.gradle/caches/transforms-3/efb52bce24d65d290c22ecdc53ed5adc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/romik/.gradle/caches/transforms-3/d4ab59ce5546bc5028e07364ca12a1c0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/romik/.gradle/caches/transforms-3/d4ab59ce5546bc5028e07364ca12a1c0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/romik/.gradle/caches/transforms-3/1d17e41b326b7dc66da54a71a237a27e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/romik/.gradle/caches/transforms-3/1d17e41b326b7dc66da54a71a237a27e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/romik/.gradle/caches/transforms-3/a7b60d003f5256ca14a33906ac86334d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/romik/.gradle/caches/transforms-3/a7b60d003f5256ca14a33906ac86334d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/romik/.gradle/caches/transforms-3/3f95cba05be1be77124d9c3f338a85d8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/romik/.gradle/caches/transforms-3/3f95cba05be1be77124d9c3f338a85d8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/romik/.gradle/caches/transforms-3/ced1a770e01d9ef3905936c4741efe55/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/romik/.gradle/caches/transforms-3/ced1a770e01d9ef3905936c4741efe55/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3be20887097407317ba83b6c7206cf/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3be20887097407317ba83b6c7206cf/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/romik/.gradle/caches/transforms-3/0b6cf068648a4858d857b226b26799af/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/romik/.gradle/caches/transforms-3/0b6cf068648a4858d857b226b26799af/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/romik/.gradle/caches/transforms-3/735a5ef488bd5d62ce9ab4485a704cda/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/romik/.gradle/caches/transforms-3/735a5ef488bd5d62ce9ab4485a704cda/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/romik/.gradle/caches/transforms-3/bf22cb6b14fdf3b7f6b265fc877699c8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/romik/.gradle/caches/transforms-3/bf22cb6b14fdf3b7f6b265fc877699c8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/romik/.gradle/caches/transforms-3/244b7639c5783d62c017f904194b054c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/romik/.gradle/caches/transforms-3/244b7639c5783d62c017f904194b054c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/romik/.gradle/caches/transforms-3/21c2558aab9c1d41cfed8b6c39e14de3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/romik/.gradle/caches/transforms-3/21c2558aab9c1d41cfed8b6c39e14de3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/romik/.gradle/caches/transforms-3/8eb901835b257b6ebe33371536bbdc75/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/romik/.gradle/caches/transforms-3/8eb901835b257b6ebe33371536bbdc75/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/romik/.gradle/caches/transforms-3/5c2669b8c5fe913905ea83038a6570cd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/romik/.gradle/caches/transforms-3/5c2669b8c5fe913905ea83038a6570cd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/romik/.gradle/caches/transforms-3/10f6e64ef7d5d5e8c82d70f2e0d4f2a2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/romik/.gradle/caches/transforms-3/10f6e64ef7d5d5e8c82d70f2e0d4f2a2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/romik/.gradle/caches/transforms-3/effbd3098b1b179f79d104d86ef722ea/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/romik/.gradle/caches/transforms-3/effbd3098b1b179f79d104d86ef722ea/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/romik/.gradle/caches/transforms-3/65e73362ae14226963c1648806688fba/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/romik/.gradle/caches/transforms-3/65e73362ae14226963c1648806688fba/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/romik/.gradle/caches/transforms-3/36678de14d0b7839134e28f123a7183a/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/romik/.gradle/caches/transforms-3/36678de14d0b7839134e28f123a7183a/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/romik/.gradle/caches/transforms-3/a87e0bc56eb235157d67a03ab38180c9/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/romik/.gradle/caches/transforms-3/a87e0bc56eb235157d67a03ab38180c9/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/romik/.gradle/caches/transforms-3/86b4fa667386b59663f9389ecdcfa8f0/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/romik/.gradle/caches/transforms-3/86b4fa667386b59663f9389ecdcfa8f0/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/6b7fe93b9eb4a7101c3df2b863a8f23f/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/6b7fe93b9eb4a7101c3df2b863a8f23f/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/romik/.gradle/caches/transforms-3/9c31dbaf61c755736b4e4db1c0f662cb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/romik/.gradle/caches/transforms-3/9c31dbaf61c755736b4e4db1c0f662cb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/romik/.gradle/caches/transforms-3/e7cc684492bfbb6e9bd17338cde90a8e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/romik/.gradle/caches/transforms-3/e7cc684492bfbb6e9bd17338cde90a8e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.4.0] /home/romik/.gradle/caches/transforms-3/d3603e3f5e7166bcae52d5c2124f103d/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /home/romik/.gradle/caches/transforms-3/d3603e3f5e7166bcae52d5c2124f103d/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/romik/.gradle/caches/transforms-3/9ce780e0d055b939d922c15d27314d36/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/romik/.gradle/caches/transforms-3/9ce780e0d055b939d922c15d27314d36/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/romik/.gradle/caches/transforms-3/ebd847be1da93c07f67085f57a400e14/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/romik/.gradle/caches/transforms-3/ebd847be1da93c07f67085f57a400e14/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/romik/.gradle/caches/transforms-3/484cd246fea6d164d82d7972ed953132/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/romik/.gradle/caches/transforms-3/484cd246fea6d164d82d7972ed953132/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/romik/.gradle/caches/transforms-3/f95a118929f4e240eda90cbf77dde7bb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/romik/.gradle/caches/transforms-3/f95a118929f4e240eda90cbf77dde7bb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/romik/.gradle/caches/transforms-3/9292b9701fd9e8ff5c91c063bfdeeefd/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/romik/.gradle/caches/transforms-3/9292b9701fd9e8ff5c91c063bfdeeefd/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/romik/.gradle/caches/transforms-3/425554637b881078525b9f2aa86d31c6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/romik/.gradle/caches/transforms-3/425554637b881078525b9f2aa86d31c6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/romik/.gradle/caches/transforms-3/24e7af6fad7e6d440b8a315e71d9888d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/romik/.gradle/caches/transforms-3/24e7af6fad7e6d440b8a315e71d9888d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/d4a7bffff8375ed41664004e2769cf9f/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/d4a7bffff8375ed41664004e2769cf9f/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/romik/.gradle/caches/transforms-3/cd508b00f129ab1f2a420dc23af0efbc/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/romik/.gradle/caches/transforms-3/cd508b00f129ab1f2a420dc23af0efbc/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/71f6b5e95761b00c689faed2bd6b3258/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/romik/.gradle/caches/transforms-3/71f6b5e95761b00c689faed2bd6b3258/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/romik/.gradle/caches/transforms-3/c445865e243f0359910ec56975236cda/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/romik/.gradle/caches/transforms-3/c445865e243f0359910ec56975236cda/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/romik/.gradle/caches/transforms-3/f4eb0d8a1b87be81c6febfa3af39ad8c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/romik/.gradle/caches/transforms-3/f4eb0d8a1b87be81c6febfa3af39ad8c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/romik/.gradle/caches/transforms-3/a6549832ed4e0ac4408bc38631a9e9a6/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/romik/.gradle/caches/transforms-3/a6549832ed4e0ac4408bc38631a9e9a6/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/romik/.gradle/caches/transforms-3/dd625780e08e91f4d3657a2aed7ce02d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/romik/.gradle/caches/transforms-3/dd625780e08e91f4d3657a2aed7ce02d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+		ADDED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/romik/Downloads/AndroidStudioProjects/Doggler App/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:25:5-72
+MERGED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:25:22-69
+activity#androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:28:9-37:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:33:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:29:13-96
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/romik/.gradle/caches/transforms-3/9734b2dbb3005a55a95b75fc0fcdf0b1/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:34:13-36:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/romik/.gradle/caches/transforms-3/4e662d2f2f6ca0281f0531be58b9e050/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/romik/.gradle/caches/transforms-3/ebd847be1da93c07f67085f57a400e14/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/romik/.gradle/caches/transforms-3/ebd847be1da93c07f67085f57a400e14/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/romik/.gradle/caches/transforms-3/bd3fd37f2cc3c096910445a2d80e8b74/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/romik/.gradle/caches/transforms-3/b3ef93a140a40093b4c46f481d84faf6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greet Me</string>
+    <string name="good_morning">Good Morning!</string>
+    <string name="todo">TODO</string>
+    <string name="hello_romik">HELLO ROMIK!</string>
+    <string name="h_r">HELLO ROMIK</string>
+</resources>
