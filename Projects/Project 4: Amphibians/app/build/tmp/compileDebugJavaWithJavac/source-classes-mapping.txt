@@ -1,0 +1,33 @@
+com/example/amphibians/databinding/FragmentAmphibianDetailBindingImpl.java
+ com.example.amphibians.databinding.FragmentAmphibianDetailBindingImpl
+com/example/amphibians/DataBindingTriggerClass.java
+ com.example.amphibians.DataBindingTriggerClass
+com/example/amphibians/generated/callback/OnClickListener.java
+ com.example.amphibians.generated.callback.OnClickListener
+ com.example.amphibians.generated.callback.OnClickListener$Listener
+com/example/amphibians/DataBinderMapperImpl.java
+ com.example.amphibians.DataBinderMapperImpl
+ com.example.amphibians.DataBinderMapperImpl$InnerBrLookup
+ com.example.amphibians.DataBinderMapperImpl$InnerLayoutIdLookup
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/amphibians/databinding/FragmentAmphibianDetailBinding.java
+ com.example.amphibians.databinding.FragmentAmphibianDetailBinding
+com/example/amphibians/BuildConfig.java
+ com.example.amphibians.BuildConfig
+com/example/amphibians/BR.java
+ com.example.amphibians.BR
+com/example/amphibians/databinding/FragmentAmphibianListBindingImpl.java
+ com.example.amphibians.databinding.FragmentAmphibianListBindingImpl
+com/example/amphibians/databinding/FragmentAmphibianListBinding.java
+ com.example.amphibians.databinding.FragmentAmphibianListBinding
+com/example/amphibians/databinding/ListViewItemBindingImpl.java
+ com.example.amphibians.databinding.ListViewItemBindingImpl
+com/example/amphibians/databinding/ListViewItemBinding.java
+ com.example.amphibians.databinding.ListViewItemBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/amphibians/databinding/ActivityMainBinding.java
+ com.example.amphibians.databinding.ActivityMainBinding

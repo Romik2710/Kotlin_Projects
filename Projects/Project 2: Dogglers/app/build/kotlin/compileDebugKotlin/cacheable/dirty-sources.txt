@@ -1,0 +1,8 @@
+/home/romik/Downloads/AndroidStudioProjects/Smart-Internz/Projects/Project 2: Dogglers/app/src/main/java/com/example/dogglers/MainActivity.kt
+/home/romik/Downloads/AndroidStudioProjects/Smart-Internz/Projects/Project 2: Dogglers/app/src/main/java/com/example/dogglers/VerticalListActivity.kt
+/home/romik/Downloads/AndroidStudioProjects/Smart-Internz/Projects/Project 2: Dogglers/app/src/main/java/com/example/dogglers/model/Dog.kt
+/home/romik/Downloads/AndroidStudioProjects/Smart-Internz/Projects/Project 2: Dogglers/app/src/main/java/com/example/dogglers/GridListActivity.kt
+/home/romik/Downloads/AndroidStudioProjects/Smart-Internz/Projects/Project 2: Dogglers/app/src/main/java/com/example/dogglers/data/DataSource.kt
+/home/romik/Downloads/AndroidStudioProjects/Smart-Internz/Projects/Project 2: Dogglers/app/src/main/java/com/example/dogglers/HorizontalListActivity.kt
+/home/romik/Downloads/AndroidStudioProjects/Smart-Internz/Projects/Project 2: Dogglers/app/src/main/java/com/example/dogglers/adapter/DogCardAdapter.kt
+/home/romik/Downloads/AndroidStudioProjects/Smart-Internz/Projects/Project 2: Dogglers/app/src/main/java/com/example/dogglers/const/Layout.kt

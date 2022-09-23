@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/romik/Downloads/AndroidStudioProjects/Amphibians/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/romik/Downloads/AndroidStudioProjects/Amphibians/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/romik/Downloads/AndroidStudioProjects/Amphibians/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_view_item.xml",
+        "source": "/home/romik/Downloads/AndroidStudioProjects/Amphibians/app/src/main/res/layout/list_view_item.xml"
+    },
+    {
+        "merged": "/home/romik/Downloads/AndroidStudioProjects/Amphibians/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_amphibian_detail.xml",
+        "source": "/home/romik/Downloads/AndroidStudioProjects/Amphibians/app/src/main/res/layout/fragment_amphibian_detail.xml"
+    },
+    {
+        "merged": "/home/romik/Downloads/AndroidStudioProjects/Amphibians/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_amphibian_list.xml",
+        "source": "/home/romik/Downloads/AndroidStudioProjects/Amphibians/app/src/main/res/layout/fragment_amphibian_list.xml"
+    }
+]

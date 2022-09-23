@@ -1,0 +1,2 @@
+com/example/amphibians/test/BuildConfig.java
+ com.example.amphibians.test.BuildConfig
