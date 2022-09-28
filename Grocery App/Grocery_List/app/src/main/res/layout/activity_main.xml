@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#FCE0DE"
     tools:context="com.example.grocery_list.MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
@@ -22,7 +23,7 @@
         app:tint="@color/white"
         android:layout_margin="20dp"
         android:id="@+id/idFABAdd"
-        app:backgroundTint="@color/purple_700"
+        app:backgroundTint="#F44336"
         android:layout_alignParentRight="true" />
 
 </RelativeLayout>

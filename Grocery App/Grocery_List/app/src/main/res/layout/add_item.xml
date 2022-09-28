@@ -1,103 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    app:cardCornerRadius="5dp"
-    app:cardElevation="4dp"
-    android:layout_gravity="center"
-    android:orientation="vertical"
-    android:layout_margin="16dp"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="4dp">
 
-            <TextView
-                android:id="@+id/idTVHeading"
-                android:text="Add Item"
-                android:textStyle="bold"
-                android:textSize="19sp"
-                android:textColor="@color/white"
-                android:background="@color/purple_500"
-                android:padding="10dp"
-                android:elevation="15dp"
-                android:layout_gravity="center"
-                android:gravity="center"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/idTVHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/l_green"
+        android:elevation="15dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Add Item"
+        android:textColor="@color/white"
+        android:textSize="19sp"
+        android:textStyle="bold" />
 
-            <EditText
-                android:id="@+id/idEditName"
-                android:hint="Enter Item Name"
-                android:inputType="text"
-                android:textColor="@color/purple_500"
-                android:textSize="18sp"
-                android:textStyle="bold"
-                style="@style/TextInputEditTextTheme"
-                android:padding="15dp"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/idEditName"
+        style="@style/TextInputEditTextTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Item Name"
+        android:inputType="text"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
-            <EditText
-                android:id="@+id/idEditItemQuantity"
-                android:hint="Enter Item Quantity"
-                android:inputType="phone"
-                android:textColor="@color/purple_500"
-                style="@style/TextInputEditTextTheme"
-                android:padding="15dp"
-                android:textSize="18sp"
-                android:textStyle="bold"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="15dp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/idEditItemQuantity"
+        style="@style/TextInputEditTextTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Item Quantity"
+        android:inputType="number"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
-            <EditText
-                android:id="@+id/idEditItemPrice"
-                android:hint="Enter Item Price"
-                android:inputType="phone"
-                android:textColor="@color/purple_500"
-                style="@style/TextInputEditTextTheme"
-                android:padding="15dp"
-                android:textSize="18sp"
-                android:textStyle="bold"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="15dp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/idEditItemPrice"
+        style="@style/TextInputEditTextTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Item Price"
+        android:inputType="number"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:layout_margin="5dp"
-                android:weightSum="2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+        android:weightSum="2">
 
-                <Button
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:layout_margin="8dp"
-                    android:id="@+id/idButtonCancel"
-                    android:text="Cancel"
-                    android:background="@drawable/ic_button_back"
-                    android:textAllCaps="false"/>
+        <Button
+            android:id="@+id/idButtonCancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:background="@drawable/ic_button_back"
+            android:text="Cancel"
+            android:textAllCaps="false" />
 
-                <Button
-                    android:layout_width="0dp"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:layout_margin="8dp"
-                    android:id="@+id/idButtonAdd"
-                    android:text="Add"
-                    android:background="@drawable/ic_button_back"
-                    android:textAllCaps="false"/>
+        <Button
+            android:id="@+id/idButtonAdd"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:background="@drawable/ic_button_back"
+            android:text="Add"
+            android:textAllCaps="false" />
 
-            </LinearLayout>
+    </LinearLayout>
 
-</LinearLayout >
+</LinearLayout>
